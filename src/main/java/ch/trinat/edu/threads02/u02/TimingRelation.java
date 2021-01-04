@@ -1,6 +1,6 @@
 package ch.trinat.edu.threads02.u02;
 
-import kap03.kap0301.Semaphore;
+
 
 class T1 extends Thread {
 	private Semaphore[] sems;

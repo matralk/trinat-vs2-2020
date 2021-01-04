@@ -1,6 +1,5 @@
 package ch.trinat.edu.threads01.u05;
 
-import kap02.kap0201.MyThread;
 
 public class LambdaThread {
 
