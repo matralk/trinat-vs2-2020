@@ -21,30 +21,5 @@ VORLAGE VON MATTHIEU DOERLER (Promotion Descartes)
 
 
 
-
-
-
-### Windows
-
-If you run on Windows, follow these steps:
-
-    cd to the folder trinat-vs2-2020
-
-To run the project:
-
-    mvnw compile javafx:run
-
-To create a fat jar:
-
-    mvnw clean compile package
-    java -jar shade\trinat-vs2-2020.jar
-
-
-## Import Maven Project in Eclipse
-
-Navigate to Import->Maven->Check out Maven project from scm
-
-If there is no git connector available... please install it
-
-
-## Trinat Projects
+Gruppenarbeit mit BEYEL , BUCHLEITHER, DOERLER, PENNER 
+LINK : https://github.com/ragnar-code/Gruppenarbeit_VS2 
